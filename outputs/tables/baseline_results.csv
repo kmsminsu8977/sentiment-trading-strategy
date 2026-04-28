@@ -1,0 +1,6 @@
+date,symbol,sentiment_label,position,next_day_return,strategy_return_after_cost,cumulative_value
+2026-03-04,AAA,positive,1,0.012,0.011,1.011
+2026-03-05,AAA,negative,-1,-0.009,0.007,1.018077
+2026-03-06,BBB,positive,1,0.007,0.005,1.023167
+2026-03-07,BBB,negative,-1,-0.014,0.012,1.035445
+2026-03-08,CCC,positive,1,0.01,0.008,1.043729
